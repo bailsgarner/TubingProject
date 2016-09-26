@@ -1,25 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Home"
 date:   2016-09-26 17:35:41 +0000
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## **What is Tubing?**
+River tubing is a popular summer pastime. Tubes are navigated and propelled by the current of a waterway. Tubers paddle with their hands and feet. Tubes can be outfitted with mesh seats, cup holders, and coolers. To insure a more relaxing group experience, some tubers choose to tie their tubes together so they navigate the river as one unit.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+![River Tubing Photo](https://res-1.cloudinary.com/zozi/image/upload/s--OCLRGqpq--/t_637_w_opt/v1/z/p/deals/5617/widescreen_photos/70028/new-braunfels-river-tubing-comal-inner-tube-run)
 
-Jekyll also offers powerful support for code snippets:
+## **Why Go Tubing?**
+Tubing is a low-cost fun family activity! Tubes can be reused time and time again as long as they are properly taken care of. Though many choose to tube through a professional company, it is not necessary. Choosing a park with a clear exit and entry point works just as well! Instead of spending your money at the water park, enjoy the free river flumes nature has to offer.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[![GoPro Footage of Tubing](http://img.youtube.com/vi/vEmVPbwCKxs/0.jpg)](http://www.youtube.com/watch?v=vEmVPbwCKxs)

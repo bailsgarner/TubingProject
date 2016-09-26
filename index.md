@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## **What is Tubing?**
 River tubing is a popular summer pastime. Tubes are navigated and propelled by the current of a waterway. Tubers paddle with their hands and feet. Tubes can be outfitted with mesh seats, cup holders, and coolers. To insure a more relaxing group experience, some tubers choose to tie their tubes together so they navigate the river as one unit.
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Suggested Items to Bring
 permalink: /suggesteditems/
 ---

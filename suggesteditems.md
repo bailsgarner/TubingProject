@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Suggested Items to Bring
+title: "Suggested Items to Bring"
 permalink: /suggesteditems/
 ---
 

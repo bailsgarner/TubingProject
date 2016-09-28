@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Procedure
+title: "Procedure"
 permalink: /procedure/
 ---
 

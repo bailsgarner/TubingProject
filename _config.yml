@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: A Guide to River Tubing
 email: your-email@domain.com
-description: 
-The purpose of the site is to inform college students about the fun of tubing, teach safe tubing procedures, and provide students with necessary information to have a safe trip.
+description: The purpose of the site is to inform college students about the fun of tubing, teach safe tubing procedures, and provide students with necessary information to have a safe trip.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://example.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb

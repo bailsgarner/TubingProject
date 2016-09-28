@@ -1,7 +1,7 @@
 ---
-layout:page
-title: Tips
-permalink: /tipsfortubing/
+layout: page
+title: Tubing Tips
+permalink: /tubingtips/
 ---
 
 ## **Tips for Tubing**

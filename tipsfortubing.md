@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tubing Tips
+title: "Tubing Tips"
 permalink: /tubingtips/
 ---
 

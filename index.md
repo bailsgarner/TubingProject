@@ -1,7 +1,6 @@
 ---
 layout: default
 title:  "Home"
-permalink: /home/
 ---
 
 ## **What is Tubing?**

@@ -4,7 +4,6 @@ title: "Tubing Tips"
 permalink: /tubingtips/
 ---
 
-## **Tips for Tubing**
 ### **Purchasing a Tube**  
 #### INTEX River Run Float 
 The INTEX® River Run I Float that is made from 18 gauge vinyl tubing. The float is designed with a mesh bottom, a backrest that offers support, heavy-duty handles on each side, 2 cup holders and an all-around grab rope. The float comes in both pink and blue.  

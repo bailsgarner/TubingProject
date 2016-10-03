@@ -5,15 +5,16 @@ permalink: /tubingtips/
 ---
 
 ### **Purchasing a Tube**  
-#### INTEX River Run Float 
+#### **INTEX River Run Float**  
+
 The INTEX® River Run I Float that is made from 18 gauge vinyl tubing. The float is designed with a mesh bottom, a backrest that offers support, heavy-duty handles on each side, 2 cup holders and an all-around grab rope. The float comes in both pink and blue.  
 [**Purchase the INTEX River Run Float**](http://www.academy.com/shop/pdp/intex-river-run-i-float#repChildCatid=546654)
   
-#### Airhead Ragin' River Tube  
+#### **Airhead Ragin' River Tube**  
 The Airhead® Ragin' River™ Water Tube has a mesh seat and oversized back rest that allows you to sit back, relax and enjoy the water in comfort. Made of heavy-gauge PVC, the Ragin' River™ is durable and built to last. Two rope anchors are welded to the sides for linking together a chain of water tubes. Get ready for summer fun with the Ragin' River™!  
 [**Purchase the Airhead Ragin' River Tube**](http://www.dickssportinggoods.com/product/index.jsp?productId=18975546)  
   
-#### Solstice SuperChill Single Rider River Tube  
+#### **Solstice SuperChill Single Rider River Tube**  
 The Solstice® SuperChill Tube is built for one rider at a time. This inflatable tube is perfect for lounging or splashing around in the water, plus safety handles allow for easy entering and exiting. You'll love the head rest at the back of the tube for those lazy afternoons on the water. Enjoy sunny days with the SuperChill River Tube!  
 [**Purchase the Solstice SuperChill Single Rider River Tube**](http://www.dickssportinggoods.com/product/index.jsp?productId=103543826) 
   

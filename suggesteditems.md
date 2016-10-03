@@ -4,7 +4,7 @@ title: "Suggested Items to Bring"
 permalink: /suggesteditems/
 ---
 
-##Suggested Items to Bring Tubing  
+## Suggested Items to Bring Tubing  
 
 * **Sunscreen**  
 The reflective properties of water increase your chances of getting a sunburn. Waterproof sunscreen of at least 15 SPF should help prevent severe sunburn.  
